@@ -1,0 +1,82 @@
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.exe
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.deps.json
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.runtimeconfig.json
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.pdb
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.csproj.AssemblyReference.cache
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.AssemblyInfoInputs.cache
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.AssemblyInfo.cs
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.csproj.CoreCompileInputs.cache
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\staticwebassets\msbuild.WeatherWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherWebApp.props
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherWebApp.props
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherWebApp.props
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\scopedcss\bundle\WeatherWebApp.styles.css
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherW.47812F98.Up2Date
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\refint\WeatherWebApp.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.pdb
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.genruntimeconfig.cache
+C:\Users\reginalin\source\repos\WeatherWebApp\obj\Debug\net8.0\ref\WeatherWebApp.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\weatherData.json
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reginalin\source\repos\WeatherWebApp\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\weatherData.json
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.exe
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.deps.json
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.runtimeconfig.json
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.dll
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\WeatherWebApp.pdb
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.csproj.AssemblyReference.cache
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.AssemblyInfoInputs.cache
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.AssemblyInfo.cs
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.csproj.CoreCompileInputs.cache
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\staticwebassets\msbuild.WeatherWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherWebApp.props
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherWebApp.props
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherWebApp.props
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\scopedcss\bundle\WeatherWebApp.styles.css
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherW.47812F98.Up2Date
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.dll
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\refint\WeatherWebApp.dll
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.pdb
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\WeatherWebApp.genruntimeconfig.cache
+C:\Users\reginalin\OneDrive - Microsoft\Desktop\vs-copilot-demo\WeatherWebApp\obj\Debug\net8.0\ref\WeatherWebApp.dll

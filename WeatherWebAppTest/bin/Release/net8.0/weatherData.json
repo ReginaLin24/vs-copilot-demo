@@ -1,0 +1,122 @@
+{
+  "England": {
+    "London": {
+      "Spring": {
+        "high": 20,
+        "low": 5
+      },
+      "Summer": {
+        "high": 35,
+        "low": 15
+      },
+      "Autumn": {
+        "high": 15,
+        "low": 3
+      },
+      "Winter": {
+        "high": 10,
+        "low": -10
+      }
+    }
+  },
+  "USA": {
+    "New York": {
+      "Spring": {
+        "high": 18,
+        "low": 7
+      },
+      "Summer": {
+        "high": 30,
+        "low": 20
+      },
+      "Autumn": {
+        "high": 15,
+        "low": 8
+      },
+      "Winter": {
+        "high": 3,
+        "low": -7
+      }
+    }
+  },
+  "Australia": {
+    "Sydney": {
+      "Spring": {
+        "high": 25,
+        "low": 15
+      },
+      "Summer": {
+        "high": 40,
+        "low": 20
+      },
+      "Autumn": {
+        "high": 22,
+        "low": 12
+      },
+      "Winter": {
+        "high": 18,
+        "low": 8
+      }
+    }
+  },
+  "Japan": {
+    "Tokyo": {
+      "Spring": {
+        "high": 20,
+        "low": 10
+      },
+      "Summer": {
+        "high": 35,
+        "low": 25
+      },
+      "Autumn": {
+        "high": 15,
+        "low": 10
+      },
+      "Winter": {
+        "high": 10,
+        "low": 0
+      }
+    }
+  },
+  "Germany": {
+    "Berlin": {
+      "Spring": {
+        "high": 15,
+        "low": 5
+      },
+      "Summer": {
+        "high": 25,
+        "low": 15
+      },
+      "Autumn": {
+        "high": 10,
+        "low": 5
+      },
+      "Winter": {
+        "high": 5,
+        "low": -5
+      }
+    }
+  },
+  "Brazil": {
+    "Rio de Janeiro": {
+      "Spring": {
+        "high": 28,
+        "low": 18
+      },
+      "Summer": {
+        "high": 40,
+        "low": 25
+      },
+      "Autumn": {
+        "high": 25,
+        "low": 15
+      },
+      "Winter": {
+        "high": 20,
+        "low": 10
+      }
+    }
+  }
+}
