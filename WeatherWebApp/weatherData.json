@@ -2,120 +2,120 @@
   "England": {
     "London": {
       "Spring": {
-        "high": 20,
-        "low": 5
+        "High": 20,
+        "Low": 5
       },
       "Summer": {
-        "high": 35,
-        "low": 15
+        "High": 35,
+        "Low": 15
       },
       "Autumn": {
-        "high": 15,
-        "low": 3
+        "High": 15,
+        "Low": 3
       },
       "Winter": {
-        "high": 10,
-        "low": -10
+        "High": 10,
+        "Low": -10
       }
     }
   },
   "USA": {
     "New York": {
       "Spring": {
-        "high": 18,
-        "low": 7
+        "High": 18,
+        "Low": 7
       },
       "Summer": {
-        "high": 30,
-        "low": 20
+        "High": 30,
+        "Low": 20
       },
       "Autumn": {
-        "high": 15,
-        "low": 8
+        "High": 15,
+        "Low": 8
       },
       "Winter": {
-        "high": 3,
-        "low": -7
+        "High": 3,
+        "Low": -7
       }
     }
   },
   "Australia": {
     "Sydney": {
       "Spring": {
-        "high": 25,
-        "low": 15
+        "High": 25,
+        "Low": 15
       },
       "Summer": {
-        "high": 40,
-        "low": 20
+        "High": 40,
+        "Low": 20
       },
       "Autumn": {
-        "high": 22,
-        "low": 12
+        "High": 22,
+        "Low": 12
       },
       "Winter": {
-        "high": 18,
-        "low": 8
+        "High": 18,
+        "Low": 8
       }
     }
   },
   "Japan": {
     "Tokyo": {
       "Spring": {
-        "high": 20,
-        "low": 10
+        "High": 20,
+        "Low": 10
       },
       "Summer": {
-        "high": 35,
-        "low": 25
+        "High": 35,
+        "Low": 25
       },
       "Autumn": {
-        "high": 15,
-        "low": 10
+        "High": 15,
+        "Low": 10
       },
       "Winter": {
-        "high": 10,
-        "low": 0
+        "High": 10,
+        "Low": 0
       }
     }
   },
   "Germany": {
     "Berlin": {
       "Spring": {
-        "high": 15,
-        "low": 5
+        "High": 15,
+        "Low": 5
       },
       "Summer": {
-        "high": 25,
-        "low": 15
+        "High": 25,
+        "Low": 15
       },
       "Autumn": {
-        "high": 10,
-        "low": 5
+        "High": 10,
+        "Low": 5
       },
       "Winter": {
-        "high": 5,
-        "low": -5
+        "High": 5,
+        "Low": -5
       }
     }
   },
   "Brazil": {
     "Rio de Janeiro": {
       "Spring": {
-        "high": 28,
-        "low": 18
+        "High": 28,
+        "Low": 18
       },
       "Summer": {
-        "high": 40,
-        "low": 25
+        "High": 40,
+        "Low": 25
       },
       "Autumn": {
-        "high": 25,
-        "low": 15
+        "High": 25,
+        "Low": 15
       },
       "Winter": {
-        "high": 20,
-        "low": 10
+        "High": 20,
+        "Low": 10
       }
     }
   }
