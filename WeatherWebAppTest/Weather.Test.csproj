@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WeatherWebApp\Weather.csproj" />
+    <ProjectReference Include="..\Weather.Core\Weather.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
